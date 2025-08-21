@@ -515,7 +515,7 @@ ninja.data = [{
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Giorgos-Kapetanakis/", "_blank");
+          window.open("https://www.researchgate.net/profile/Giorgos-Kapetanakis/", "_blank");
         },
       },{
         id: 'social-scholar',
@@ -529,14 +529,14 @@ ninja.data = [{
         title: 'Scopus',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.scopus.com/authid/detail.uri?authorId=https://www.scopus.com/authid/detail.uri?authorId=55078694000", "_blank");
+          window.open("https://www.scopus.com/authid/detail.uri?authorId=55078694000", "_blank");
         },
       },{
         id: 'social-ams',
         title: 'Ams',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("", "_blank");
         },
       },{
       id: 'light-theme',
