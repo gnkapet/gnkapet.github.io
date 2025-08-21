@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor, [Department of Mathematics](http://www.math.uth.gr/), [University of Thessaly](http://www.uth.gr/)
+subtitle: Assistant Professor
 
 profile:
   align: right
   image: me_hs.png
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Building B, Office 211 (communicate with me for an office meeting)</p>
     <p>3rd km Old National Road Lamia-Athens</p>
@@ -27,6 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my homepage. I obtained my BSc in Mathematics from the [Department of Mathematics](http://www.math.uoa.gr/) of the [University of Athens](http://www.uoa.gr/). Then I obtained my MSc in Pure Mathematics and my PhD in Mathematics from the [Department of Mathematics and Applied Mathematics](http://www.math.uoc.gr/) of the [University of Crete](http://www.uoc.gr/). After my studies, I held postdoc positions at the [Federal University of Santa Catarnia](http://www.ufsc.br/) and at [Sabanci University](http://www.sabanciuniv.edu/) and I served as a Visiting Lecturer at the [Department of Mathematics and Applied Mathematics](http://www.math.uoc.gr/) of the [University of Crete](http://www.uoc.gr/). More details about my studies and my postdoctoral experience can be found at my [cv](/al-folio/cv/).
+Welcome to my homepage. I am an Assistant Professor at the [Department of Mathematics](http://www.math.uth.gr/) of the [University of Thessaly](http://www.uth.gr/).
+
+I obtained my BSc in Mathematics from the [Department of Mathematics](http://www.math.uoa.gr/) of the [University of Athens](http://www.uoa.gr/). Then I obtained my MSc in Pure Mathematics and my PhD in Mathematics from the [Department of Mathematics and Applied Mathematics](http://www.math.uoc.gr/) of the [University of Crete](http://www.uoc.gr/).
+
+After my studies, I held postdoc positions at the [Federal University of Santa Catarnia](http://www.ufsc.br/) and at [Sabanci University](http://www.sabanciuniv.edu/) and I served as a Visiting Lecturer at the [Department of Mathematics and Applied Mathematics](http://www.math.uoc.gr/) of the [University of Crete](http://www.uoc.gr/).
+
+More details about my studies and my postdoctoral experience can be found at my [cv](/al-folio/cv/).
 
 Last but not least, you may want to check at the [Greek Algebra and Number Theory Seminar](https://sites.google.com/view/gantseminar) that I co-organize.
