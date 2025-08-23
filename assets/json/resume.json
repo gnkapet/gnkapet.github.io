@@ -6,14 +6,14 @@
   },
   "work": [
     {
-      "organization": "Department of Mathematics, University of Thessaly",
+      "institution": "Department of Mathematics, University of Thessaly",
       "location": "Lamia, Greece",
       "position": "Assistant Professor",
       "url": "http://www.math.uth.gr/",
       "startDate": "2021-01"
     },
     {
-      "organization": "Department of Mathematics and Applied Mathematics, University of Crete",
+      "institution": "Department of Mathematics and Applied Mathematics, University of Crete",
       "location": "Heraklion, Greece",
       "position": "Adjunct Faculty Member",
       "url": "http://www.math.uoc.gr/",
@@ -21,7 +21,7 @@
       "endDate": "2021-01"
     },
     {
-      "organization": "Algebra and Number Theory Group, Sabanci University",
+      "institution": "Algebra and Number Theory Group, Sabanci University",
       "location": "Istanbul, Turkey",
       "position": "Postdoctoral Researcher",
       "url": "https://math.sabanciuniv.edu/en/research/research-groups/algebra-and-number-theory-and-combinatorics",
@@ -30,7 +30,7 @@
       "supervisors": "H. Stichtenoth A. Topuzoglu G. Guneri and M. Lavrauw"
     },
     {
-      "organization": "LabSEC, Federal University of Santa Catarina",
+      "institution": "LabSEC, Federal University of Santa Catarina",
       "location": "Florianopolis, SC, Brazil",
       "position": "Postdoctoral Researcher",
       "url": "http://www.labsec.ufsc.br/",
@@ -42,12 +42,32 @@
   "education": [
     {
       "institution": "Department of Mathematics and Applied Mathematics, University of Crete",
-      "location": "Heraklion, Crete",
+      "location": "Heraklion, Greece",
       "url": "https://www.math.uoc.gr/",
       "area": "Mathematics",
       "studyType": "PhD",
-      "endDate": "2015",
-      "courses": ["Theory of Relativity"]
+      "startDate" : "2011-02",
+      "endDate": "2015-07",
+      "thesis": "Polynomials with Special Properties over Finite Fields"
+    },
+    {
+      "institution": "Department of Mathematics, University of Crete",
+      "location": "Heraklion, Greece",
+      "url": "https://www.math.uoc.gr/",
+      "area": "Pure Mathematics",
+      "studyType": "MSc",
+      "startDate" : "2006-10",
+      "endDate": "2009-07",
+      "thesis": "The Prime Number Theorem in Function Fields"
+    },
+    {
+      "institution": "Department of Mathematics, University of Athens",
+      "location": "Athens, Greece",
+      "url": "https://www.math.uoa.gr/",
+      "area": "Mathematics",
+      "studyType": "BSc",
+      "startDate" : "1999-10",
+      "endDate": "2006-09"
     }
   ],
   "awards": [
