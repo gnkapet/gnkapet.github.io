@@ -6,6 +6,10 @@ body {
   padding-bottom: 70px;
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
+  background-image: url("assets/img/centaur.png");
+	background-repeat: no-repeat;
+	background-size: 40%;
+  background-blend-mode: lighten;
 
   h1,
   h2,
