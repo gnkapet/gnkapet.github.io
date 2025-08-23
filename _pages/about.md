@@ -33,6 +33,6 @@ I obtained my BSc in Mathematics from the [Department of Mathematics](http://www
 
 After my studies, I held postdoc positions at the [LabSEC](http://www.labsec.ufsc.br/) of the [Federal University of Santa Catarina](http://www.ufsc.br/) and at [Algebra and Number Theory Group](http://math.sabanciuniv.edu/research/research-groups/algebra-and-number-theory) of [Sabanci University](http://www.sabanciuniv.edu/) and I served as a Visiting Lecturer at the [Department of Mathematics and Applied Mathematics](http://www.math.uoc.gr/) of the [University of Crete](http://www.uoc.gr/).
 
-More details about my studies and my postdoctoral experience can be found at my [cv](https://www.dropbox.com/s/qil1sbl0gjtewo5/gk_en_cv.pdf?raw=1).
+More details about my studies and my postdoctoral experience can be found at the [cv section](cv).
 
 Last but not least, you may want to check at the [Greek Algebra and Number Theory Seminar](https://sites.google.com/view/gantseminar) that I co-organize.
