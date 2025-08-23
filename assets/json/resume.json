@@ -11,8 +11,7 @@
       "location": "Lamia, Greece",
       "position": "Assistant Professor",
       "url": "http://www.math.uth.gr/",
-      "startDate": "2021-01",
-      "endDate": "now"
+      "startDate": "2021-01"
     },
     {
       "organization": "Department of Mathematics and Applied Mathematics, University of Crete",
@@ -39,7 +38,7 @@
       "startDate": "2016-02",
       "endDate": "2016-05",
       "supervisor": "D. Panario"
-    },
+    }
   ],
   "education": [
     {
