@@ -1,60 +1,54 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "name": "Giorgos Kapetanakis",
+    "email": "gnkapet@gmail.com",
+    "phone": "(+30) 22310 60164"
+    }
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "organization": "Department of Mathematics, University of Thessaly",
+      "location": "Lamia, Greece",
+      "position": "Assistant Professor",
+      "url": "http://www.math.uth.gr/",
+      "startDate": "2021-01",
+      "endDate": "now"
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
+      "organization": "Department of Mathematics and Applied Mathematics, University of Crete",
+      "location": "Heraklion, Greece",
+      "position": "Adjunct Faculty Member",
+      "url": "http://www.math.uoc.gr/",
+      "startDate": "2018-10",
+      "endDate": "2021-01"
+    },
+    {
+      "organization": "Algebra and Number Theory Group, Sabanci University",
+      "location": "Istanbul, Turkey",
+      "position": "Postdoctoral Researcher",
+      "url": "https://math.sabanciuniv.edu/en/research/research-groups/algebra-and-number-theory-and-combinatorics",
+      "startDate": "2016-09",
+      "endDate": "2018-09",
+      "supervisors": "H. Stichtenoth A. Topuzoglu G. Guneri and M. Lavrauw"
+    },
+    {
+      "organization": "LabSEC, Federal University of Santa Catarina",
+      "location": "Florianopolis, SC, Brazil",
+      "position": "Postdoctoral Researcher",
+      "url": "http://www.labsec.ufsc.br/",
+      "startDate": "2016-02",
+      "endDate": "2016-05",
+      "supervisor": "D. Panario"
+    },
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Department of Mathematics and Applied Mathematics, University of Crete",
+      "location": "Heraklion, Crete",
+      "url": "https://www.math.uoc.gr/",
+      "area": "Mathematics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
+      "endDate": "2015",
       "courses": ["Theory of Relativity"]
     }
   ],
