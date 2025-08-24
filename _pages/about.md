@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my homepage. I am an Assistant Professor at the [Department of Mathematics](http://www.math.uth.gr/) of the [University of Thessaly](http://www.uth.gr/).
+Welcome to my homepage. I am an Assistant Professor at the [Department of Mathematics](http://www.math.uth.gr/) of the [University of Thessaly](http://www.uth.gr/). My research is primarily focused on finite fields and their applications.
 
 I obtained my BSc in Mathematics from the [Department of Mathematics](http://www.math.uoa.gr/) of the [University of Athens](http://www.uoa.gr/). Then I obtained my MSc in Pure Mathematics and my PhD in Mathematics from the [Department of Mathematics and Applied Mathematics](http://www.math.uoc.gr/) of the [University of Crete](http://www.uoc.gr/).
 
