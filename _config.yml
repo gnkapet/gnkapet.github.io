@@ -285,7 +285,7 @@ scholar:
   type_names: { talk: "Talks" }
 
   query: "@*"
-  group_by: type
+  group_by: type, year
   group_order: descending
 
 # Display different badges withs stats for your publications
