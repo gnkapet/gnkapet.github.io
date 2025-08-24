@@ -281,6 +281,8 @@ scholar:
 
   details_dir: bibliography
   details_link: Details
+  
+  type_names: { talk: "Talks" }
 
   query: "@*"
   group_by: type
