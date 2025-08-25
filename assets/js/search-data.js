@@ -44,6 +44,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-teaching",
+          title: "teaching",
+          description: "Here you can find information and links related to my academic teaching activities. &quot;FS&quot; stands for Fall Semester and &quot;SS&quot; for Spring Semester.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
+          },
         },{id: "nav-people",
           title: "people",
           description: "members of the lab or group",
