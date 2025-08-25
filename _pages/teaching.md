@@ -7,9 +7,9 @@ nav: true
 nav_order: 6
 
 profiles:
-	-align: right
- 	 image: centaur.png
-   	 content: about_einstein.md
+    -align: right
+	 image: centaur.png
+     content: about_einstein.md
 	 more_info: >
       <p>Department of Mathematics</p>
       <p>University of Thessaly</p>
