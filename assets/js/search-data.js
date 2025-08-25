@@ -511,6 +511,13 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/giorgos-kapetanakis-2220b043", "_blank");
         },
       },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0002-3488-038X", "_blank");
+        },
+      },{
         id: 'social-researchgate',
         title: 'ResearchGate',
         section: 'Socials',
