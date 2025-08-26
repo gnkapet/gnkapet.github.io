@@ -22,6 +22,7 @@ profiles:
      image: europa.png
      image_circular: true # crops the image to make it circular
      content: about_einstein.md
+     url: http://www.math.uoc.gr/
      more_info: >
       <p>2018-2021</p>
       <p>Adjunct Faculty Member</p>
@@ -32,6 +33,7 @@ profiles:
      image: astek_logo.png
      image_circular: true # crops the image to make it circular
      content: about_einstein.md
+     url: https://astecrete.edu.gr/
      more_info: >
       <p>2019-2020</p>
       <p>Scientific Collaborator</p>
@@ -41,6 +43,7 @@ profiles:
      image: europa.png
      image_circular: true # crops the image to make it circular
      content: about_einstein.md
+     url: http://www.math.uoc.gr/
      more_info: >
       <p>2006-2015</p>
       <p>Teaching Assistant</p>
