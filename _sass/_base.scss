@@ -241,6 +241,57 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// Profiles
+
+.profiles {
+  width: 100%;
+
+  .more-info {
+    margin-bottom: 5px;
+    margin-top: 5px;
+    font-family: monospace;
+
+    p {
+      display: inline-block;
+      margin: 0;
+    }
+  }
+}
+
+.profiles.float-right {
+  margin-left: 1rem;
+}
+
+.profiles.float-left {
+  margin-right: 1rem;
+}
+
+@media (min-width: 576px) {
+  .profiles {
+    width: 10%;
+
+    .address {
+      p {
+        display: block;
+      }
+    }
+  }
+}
+
+.post-description {
+  margin-bottom: 2rem;
+  font-size: 0.875rem;
+
+  a {
+    color: inherit;
+
+    &:hover {
+      color: var(--global-theme-color);
+      text-decoration: none;
+    }
+  }
+}
+
 // Navbar customization
 
 .navbar {
