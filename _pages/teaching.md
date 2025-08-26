@@ -21,7 +21,7 @@ profiles:
    - align: right
      image: europa.png
      image_circular: true # crops the image to make it circular
-     content: about_einstein.md
+     content: afm_uoc.md
      url: http://www.math.uoc.gr/
      more_info: >
       <p>2018-2021</p>
@@ -32,7 +32,7 @@ profiles:
    - align: right
      image: astek_logo.png
      image_circular: true # crops the image to make it circular
-     content: about_einstein.md
+     content: sc_astek.md
      url: https://astecrete.edu.gr/
      more_info: >
       <p>2019-2020</p>
@@ -42,7 +42,7 @@ profiles:
    - align: right
      image: europa.png
      image_circular: true # crops the image to make it circular
-     content: about_einstein.md
+     content: ta_uoc.md
      url: http://www.math.uoc.gr/
      more_info: >
       <p>2006-2015</p>
