@@ -22,7 +22,7 @@ group :jekyll_plugins do
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
 
-    gem 'jekyll-archives-v2'
+    gem 'classifier-reborn'
 end
 
 # Gems for development or external data fetching (outside :jekyll_plugins)
