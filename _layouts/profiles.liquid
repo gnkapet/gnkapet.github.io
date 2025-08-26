@@ -7,6 +7,9 @@ layout: page
       {% for profile in page.profiles %}
         <hr>
         <div class="profiles float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
+          {% if profile.url %}
+            <a href="{{ profile.url }}">
+          {% endif %}
           {% if profile.image %}
             {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
             {% if profile.image_circular %}
@@ -16,6 +19,9 @@ layout: page
             {% endif %}
             {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.15}}px, (min-width: 576px) 15vw, 80vw"{% endcapture %}
             {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.image %}
+          {% endif %}
+          {% if profile.url %}
+            </a>
           {% endif %}
         </div>
         {% if profile.more_info %}
