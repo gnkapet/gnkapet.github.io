@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Here you can find information and links related to my academic teaching activities. "FS" stands for Fall Semester and "SS" for Spring Semester.
 nav: true
-nav_order: 6
+nav_order: 4
 
 profiles:
    - align: right
