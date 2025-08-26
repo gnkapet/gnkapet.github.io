@@ -269,8 +269,10 @@ ul.task-list input[type="checkbox"] {
    .profiles.float-left {
      width: 15%;   
    }
-   p {
-     display: block;
+   .profiles {
+     p {
+       display: block;
+     }
    }
 }
 
