@@ -11,6 +11,7 @@ profiles:
      image: uth_logo_en.png
      image_circular: true # crops the image to make it circular
      content: about_einstein.md
+     url: http://www.math.uth.gr/
      more_info: >
       <p>2021-today</p>
       <p>Assistant Professor</p>
