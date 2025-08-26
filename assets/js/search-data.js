@@ -41,7 +41,7 @@ ninja.data = [{
           title: 'New (github-hosted) website',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/20250826_1.html";
+              window.location.href = "/news/announcement_1.html";
             },},{
         id: 'social-email',
         title: 'email',
