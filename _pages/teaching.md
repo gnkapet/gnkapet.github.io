@@ -8,7 +8,7 @@ nav_order: 4
 
 profiles:
    - align: right
-     image: uth_logo_en.png
+     image: uth_logo_en.jpg
      image_circular: true # crops the image to make it circular
      content: assist_prof_uth.md
      url: http://www.math.uth.gr/
@@ -30,7 +30,7 @@ profiles:
       <p>University of Crete</p>
       
    - align: right
-     image: astek_logo.png
+     image: astek_logo.jpg
      image_circular: true # crops the image to make it circular
      content: sc_astek.md
      url: https://astecrete.edu.gr/
