@@ -1,8 +1,7 @@
 ---
 layout: post
-title: New (github-hosted) website
 date: 2025-08-26 16:43:00-0400
-inline: false
+inline: true
 related_posts: false
 ---
 
