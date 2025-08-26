@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Giorgos
-middle_name: 
+middle_name: N.
 last_name: Kapetanakis
 contact_note: >
   Best way to reach me is my Gmail
@@ -350,6 +350,7 @@ external_links:
 imagemagick:
   enabled: true # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
   widths:
+    - 150
     - 480
     - 800
     - 1400
