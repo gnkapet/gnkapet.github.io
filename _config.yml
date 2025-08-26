@@ -147,8 +147,7 @@ keep_files:
   - .nojekyll
 
 # Plug-ins
-plugins:
-  - jekyll-archives-v2
+plugins
   - jekyll-email-protect
   - jekyll-feed
   - jekyll-get-json
