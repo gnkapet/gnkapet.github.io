@@ -9,7 +9,9 @@ profile:
   image: me_hs.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Building B, Office 211 (communicate with me for an office meeting)</p>
+    <p>Office 211</p>
+    <p>Department of Mathematics</p>
+    <p>University of Thessaly</p>
     <p>3rd km Old National Road Lamia-Athens</p>
     <p>Lamia 35100, Greece</p>
 
