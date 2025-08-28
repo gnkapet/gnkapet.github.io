@@ -40,8 +40,8 @@ ninja.data = [{
         },{id: "news-after-a-long-time-i-finally-migrated-to-a-modern-website-based-on-the-al-folio-theme-if-you-see-anything-that-does-not-work-or-is-missing-please-let-me-know",
           title: 'After a long time, I finally migrated to a modern website, based on...',
           description: "",
-          section: "News",},{id: "news-about-aca-2025",
-          title: 'About ACA 2025',
+          section: "News",},{id: "news-aca-2025",
+          title: 'ACA 2025',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2.html";
