@@ -16,4 +16,4 @@ From the participants' feedback, it seems like the [ACA 2025](https://aca2025.gi
 
 Of course, we were very lucky to have an amazing group of volunteers, special session organizers, speakers and, of course, participants!
 
-![Conference poster](assets/images/aca2025_poster.png){:width="100%"}
+![Conference poster](assets/img/aca2025_poster.png){:width="100%"}
