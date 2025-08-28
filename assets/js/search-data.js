@@ -40,10 +40,12 @@ ninja.data = [{
         },{id: "news-after-a-long-time-i-finally-migrated-to-a-modern-website-based-on-the-al-folio-theme-if-you-see-anything-that-does-not-work-or-is-missing-please-let-me-know",
           title: 'After a long time, I finally migrated to a modern website, based on...',
           description: "",
-          section: "News",},{id: "news-from-the-participants-feedback-it-seems-like-the-aca-2025-conference-turned-out-to-be-vastly-successful-the-people-behind-this-success-are-eleni-tzanaki-zafeirakis-zafeirakopoulos-theodoulos-garefalakis-ilias-kotsireas-michael-wester-of-course-we-were-very-lucky-to-have-an-amazing-group-of-volunteers-special-session-organizers-speakers-and-of-course-participants",
-          title: 'From the participants’ feedback, it seems like the ACA 2025 conference turned out...',
+          section: "News",},{id: "news-aca-2025",
+          title: 'ACA 2025',
           description: "",
-          section: "News",},{
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2.html";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
