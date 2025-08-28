@@ -37,12 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_3.html";
-            },},{id: "news-after-a-long-time-i-finally-migrated-to-a-modern-website-based-on-the-al-folio-theme-if-you-see-anything-that-does-not-work-or-is-missing-please-let-me-know",
+        },{id: "news-after-a-long-time-i-finally-migrated-to-a-modern-website-based-on-the-al-folio-theme-if-you-see-anything-that-does-not-work-or-is-missing-please-let-me-know",
           title: 'After a long time, I finally migrated to a modern website, based on...',
           description: "",
           section: "News",},{id: "news-aca-2025",
