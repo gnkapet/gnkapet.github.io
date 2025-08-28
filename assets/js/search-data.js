@@ -37,11 +37,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "news-from-the-participants-feedback-it-seems-like-the-aca-2025-conference-turned-out-to-be-vastly-successful-the-people-behind-this-success-are-eleni-tzanaki-zafeirakis-zafeirakopoulos-theodoulos-garefalakis-ilias-kotsireas-michael-wester-of-course-we-were-very-lucky-to-have-an-amazing-group-of-volunteers-special-session-organizers-speakers-and-of-course-participants",
-          title: 'From the participants’ feedback, it seems like the ACA 2025 conference turned out...',
-          description: "",
-          section: "News",},{id: "news-after-a-long-time-i-finally-migrated-to-a-modern-website-based-on-the-al-folio-theme-if-you-see-anything-that-does-not-work-or-is-missing-please-let-me-know",
+        },{id: "news-after-a-long-time-i-finally-migrated-to-a-modern-website-based-on-the-al-folio-theme-if-you-see-anything-that-does-not-work-or-is-missing-please-let-me-know",
           title: 'After a long time, I finally migrated to a modern website, based on...',
+          description: "",
+          section: "News",},{id: "news-from-the-participants-feedback-it-seems-like-the-aca-2025-conference-turned-out-to-be-vastly-successful-the-people-behind-this-success-are-eleni-tzanaki-zafeirakis-zafeirakopoulos-theodoulos-garefalakis-ilias-kotsireas-michael-wester-of-course-we-were-very-lucky-to-have-an-amazing-group-of-volunteers-special-session-organizers-speakers-and-of-course-participants",
+          title: 'From the participants’ feedback, it seems like the ACA 2025 conference turned out...',
           description: "",
           section: "News",},{
         id: 'social-email',
