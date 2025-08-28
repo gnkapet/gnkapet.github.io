@@ -1,10 +1,9 @@
 ---
 layout: post
 title: About ACA 2025
-date: 2025-08-28 12:43:00-0400
+date: 2025-08-27 15:25:00 +0300
 inline: false
 related_posts: false
-published: true
 ---
 
 From the participants' feedback, it seems like the [ACA 2025](https://aca2025.github.io/) conference turned out to be vastly successful. The people behind this success are
