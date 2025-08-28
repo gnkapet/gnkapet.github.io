@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ACA 2025
+title: About ACA 2025
 date: 2025-08-28 12:43:00-0400
 inline: false
 related_posts: false
