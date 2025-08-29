@@ -7,7 +7,7 @@ subtitle: Assistant Professor, University of Thessaly
 profile:
   align: right
   image: me_hs.png
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Office 211</p>
     <p>Department of Mathematics</p>
