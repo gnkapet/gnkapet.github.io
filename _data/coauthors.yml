@@ -7,9 +7,9 @@
     url: https://sites.google.com/view/lucasreis/
 
 "sharma":
-  -firstname: ["Rajendra Kumar", "R.K.", "R. K.", "Rajendra K."]
-   url: https://sites.google.com/view/prof-r-k-sharma/
+  - firstname: ["Rajendra Kumar", "R.K.", "R. K.", "Rajendra K."]
+    url: https://sites.google.com/view/prof-r-k-sharma/
 
 "tiwari":
-  -firstname: ["Shailesh Kumar"]
-   url: https://sites.google.com/view/sktiwarimath/
+  - firstname: ["Shailesh Kumar"]
+    url: https://sites.google.com/view/sktiwarimath/
