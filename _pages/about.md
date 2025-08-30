@@ -1,11 +1,13 @@
 ---
 layout: about
 title: about
+lang: en
+page_id: about
 permalink: /
 subtitle: Assistant Professor, University of Thessaly
 
 profile:
-  align: right
+  align: rightfalse
   image: me_hs.png
   image_circular: true # crops the image to make it circular
   more_info: >
