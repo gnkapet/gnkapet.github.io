@@ -1,8 +1,6 @@
 ---
 layout: about
 title: about
-lang: en
-page_id: about
 permalink: /
 subtitle: Assistant Professor, University of Thessaly
 
