@@ -82,4 +82,18 @@
       "icon": ""
     }
   ]
+  "awards": [
+    {
+      "title": "Maria Michael Manassaki",
+      "date": "2013-04",
+      "awarder": "University of Crete",
+      "summary": "Scholarship for academic excellence for the academic year 2012-2013."
+    }
+    {
+      "title": "Maria Michael Manassaki",
+      "date": "2011-06",
+      "awarder": "University of Crete",
+      "summary": "Scholarship for academic excellence for the academic year 2010-2011."
+    }
+  ]
 }
