@@ -25,14 +25,17 @@ layout: page
           {% endif %}
           <p>
           {% if profile.institution %}
+              </br>
               <i class="fa-solid fa-building-columns iconinstitution"></i>
               <a href="{{ profile.url }}">{{ profile.institution }}</a>
           {% endif %}
           {% if profile.location %}
+              </br>
               <i class="fa-solid fa-location-dot iconinstitution"></i>
               {{ profile.location }}
           {% endif %}
           {% if profile.date %}
+              </br>
               <i class="fa-solid fa-calendar iconinstitution"></i>
               {{ profile.date }}
           {% endif %}
