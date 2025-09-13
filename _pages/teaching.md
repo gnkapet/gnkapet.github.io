@@ -11,7 +11,7 @@ profiles:
      image: uth_logo_en.jpg
      image_circular: true # crops the image to make it circular
      content: assist_prof_uth.md
-     date: 2021-PRESENT
+     date: 2021-now
      location: Lamia, Greece
      institution: Department of Mathematics, University of Thessaly     
      url: http://www.math.uth.gr/
@@ -22,32 +22,27 @@ profiles:
      image_circular: true # crops the image to make it circular
      content: afm_uoc.md
      url: http://www.math.uoc.gr/
-     more_info: >
-      <p>2018-2021</p>
-      <p>Adjunct Faculty Member</p>
-      <p>Department of Mathematics and Applied Mathematics</p>
-      <p>University of Crete</p>
+     date: 2018-2021
+     position: Adjunct Faculty Member
+     institution: Department of Mathematics and Applied Mathematics, University of Crete
       
    - align: right
      image: astek_logo.jpg
      image_circular: true # crops the image to make it circular
      content: sc_astek.md
      url: https://astecrete.edu.gr/
-     more_info: >
-      <p>2019-2020</p>
-      <p>Scientific Collaborator</p>
-      <p>Higher School of Tourism Education of Crete (ASTEK)</p>
+     date: 2019-2020
+     position: Scientific Collaborator
+     instituition: Higher School of Tourism Education of Crete (ASTEK)
       
    - align: right
      image: europa.png
      image_circular: true # crops the image to make it circular
      content: ta_uoc.md
      url: http://www.math.uoc.gr/
-     more_info: >
-      <p>2006-2015</p>
-      <p>Teaching Assistant</p>
-      <p>Department of Mathematics and Applied Mathematics</p>
-      <p>University of Crete</p>
+     date: 2006-2015
+     position: Teaching Assistant
+     institution: Department of Mathematics and Applied Mathematics, University of Crete
    
 ---
 
