@@ -25,6 +25,7 @@ profiles:
      date: 2018-2021
      position: Adjunct Faculty Member
      institution: Department of Mathematics and Applied Mathematics, University of Crete
+     location: Heraklion, Greece
       
    - align: right
      image: astek_logo.jpg
@@ -33,7 +34,8 @@ profiles:
      url: https://astecrete.edu.gr/
      date: 2019-2020
      position: Scientific Collaborator
-     instituition: Higher School of Tourism Education of Crete (ASTEK)
+     institution: Higher School of Tourism Education of Crete (ASTEK)
+     location: Agios Nikolaos, Greece
       
    - align: right
      image: europa.png
@@ -43,6 +45,7 @@ profiles:
      date: 2006-2015
      position: Teaching Assistant
      institution: Department of Mathematics and Applied Mathematics, University of Crete
+     location: Heraklion, Greece
    
 ---
 
