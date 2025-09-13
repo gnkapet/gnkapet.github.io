@@ -81,12 +81,12 @@
     {
       "language": "Greek",
       "fluency": "Native speaker",
-      "icon": ""
+      "icon": "fa-solid fa-language"
     },
     {
       "language": "English",
       "fluency": "Fluent",
-      "icon": ""
+      "icon": "fa-solid fa-language"
     }
   ],
   "awards": [
