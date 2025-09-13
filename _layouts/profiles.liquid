@@ -35,6 +35,10 @@ layout: page
               {{ profile.location }}
             </p>
           {% endif %}
+          {% if profile.date %}
+              <i class="fa-solid fa-calendar"</i>
+              {{ profile.date }}
+          {% endif %}
           {% if profile.content %}
             {% capture profile_content %}{% include_relative {{ profile.content }} %}{% endcapture %}
             {{ profile_content | markdownify }}
