@@ -11,12 +11,11 @@ profiles:
      image: uth_logo_en.jpg
      image_circular: true # crops the image to make it circular
      content: assist_prof_uth.md
+     date: 2021-PRESENT
+     location: Lamia, Greece
+     institution: Department of Mathematics, University of Thessaly     
      url: http://www.math.uth.gr/
-     more_info: >
-      <p>2021-today</p>
-      <p>Assistant Professor</p>
-      <p>Department of Mathematics</p>
-      <p>University of Thessaly</p>
+     position: Assistant Professor
       
    - align: right
      image: europa.png
