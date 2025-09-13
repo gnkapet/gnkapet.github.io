@@ -1,9 +1,16 @@
 {
   "basics": {
-    "name": "Giorgos Kapetanakis",
+    "name": "Giorgos N. Kapetanakis",
     "email": "gnkapet@gmail.com",
-    "phone": "(+30) 22310 60164"
-  },
+    "phone": "(+30) 22310 60164",
+    "url": "http://gkapet.users.uth.gr/",
+    "location": {
+      "address": "3rd k. Old National Road Lamia-Athens",
+      "postalCode": "35100",
+      "city": "Lamia",
+      "countryCode": "GR"
+      }
+    },
   "work": [
     {
       "name": "Department of Mathematics, University of Thessaly",
