@@ -250,16 +250,18 @@ ul.task-list input[type="checkbox"] {
   font-family: monospace;
   p {
     display: inline-block;
-    margin: 10%;
+    margin: 0;
   }
 }
 
 .profiles.float-right {
   margin-left: 1rem;
+  margin-right: 10%;
 }
 
 .profiles.float-left {
   margin-right: 1rem;
+  margin-left: 10%;
 }
 
 @media (min-width: 576px) {
