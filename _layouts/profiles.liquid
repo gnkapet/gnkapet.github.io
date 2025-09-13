@@ -19,21 +19,22 @@ layout: page
           {% endif %}
         </div>
 
-        <div class="profiles">
-          {% if profile.position %}
-            <p> {{ profile.position }} </p>
-          {% endif %}
-        </div>
         <div class="clearfix">
+          {% if profile.position %}
+            <h3> {{ profile.position }} </h3>
+          {% endif %}
           {% if profile.institution %}
             <p>
               <i class="fa-solid fa-building-columns iconinstitution"></i>
               <a href="{{ profile.url }}">{{ profile.institution }}</a>
             </p>
           {% endif %}
-        </div>     
-
-        <div class="clearfix">
+          {% if profile.location %}
+            <p>
+              <i class="fa-solid fa-location-dot iconlocation"></i>
+              {{ profile.location }}
+            </p>
+          {% endif %}
           {% if profile.content %}
             {% capture profile_content %}{% include_relative {{ profile.content }} %}{% endcapture %}
             {{ profile_content | markdownify }}
