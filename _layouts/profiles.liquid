@@ -6,6 +6,9 @@ layout: page
     {% if page.profiles %}
       {% for profile in page.profiles %}
         <hr>
+        {% if profile.position %}
+          <h3> {{ profile.position }} </h3>
+        {% endif %}
         <div class="profiles float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
           {% if profile.image %}
             {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
@@ -19,27 +22,24 @@ layout: page
           {% endif %}
         </div>
 
-        <div class="clearfix">
-          {% if profile.position %}
-            <h3> {{ profile.position }} </h3>
-          {% endif %}
-          <p>
+          <p class="post-tags">
           {% if profile.institution %}
-              <br />
-              <i class="fa-solid fa-building-columns iconinstitution"></i>
+              <i class="fa-solid fa-building-columns fa-sm"></i>
               <a href="{{ profile.url }}">{{ profile.institution }}</a>
           {% endif %}
           {% if profile.location %}
               <br />
-              <i class="fa-solid fa-location-dot iconinstitution"></i>
+              <i class="fa-solid fa-location-dot fa-sm"></i>
               {{ profile.location }}
           {% endif %}
           {% if profile.date %}
               <br />
-              <i class="fa-solid fa-calendar iconinstitution"></i>
+              <i class="fa-solid fa-calendar fa-sm"></i>
               {{ profile.date }}
           {% endif %}
           </p>
+
+         <div class="clearfix">
           {% if profile.content %}
             {% capture profile_content %}{% include_relative {{ profile.content }} %}{% endcapture %}
             {{ profile_content | markdownify }}
