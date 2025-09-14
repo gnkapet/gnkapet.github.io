@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor, University of Thessaly
+subtitle: Assistant Professor <br /> <a href="http://www.math.uth.gr">Department of Mathematics, University of Thessaly</a>
 
 profile:
   align: rightfalse
@@ -10,8 +10,6 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Office 211</p>
-    <p>Department of Mathematics</p>
-    <p>University of Thessaly</p>
     <p>3rd km Old National Road Lamia-Athens</p>
     <p>Lamia 35100, Greece</p>
 
