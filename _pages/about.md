@@ -2,18 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor, <a href="http://www.math.uth.gr/">Department of Mathematics</a>, <a href="http://www.uth.gr/">University of Thessaly</a>
+subtitle: Assistant Professor of Mathematics
 
 profile:
   align: rightfalse
   image: me_hs.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Office 211</p>
-    <p>3rd km Old National Road Lamia-Athens</p>
-    <p>Lamia 35100, Greece</p>
+    <p>Office 211, Building B</p>
+    <p>Department of Mathematics</p>
+    <p>University of Thessaly</p>
+    <p>Lamia, Greece</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements:
