@@ -25,18 +25,15 @@ layout: page
 
           <p class="post-tags">
           {% if profile.institution %}
-              <i class="fa-solid fa-building-columns fa-sm"></i>
-              <a href="{{ profile.url }}">{{ profile.institution }}</a>
+              <i class="fa-solid fa-building-columns fa-sm"></i> <a href="{{ profile.url }}">{{ profile.institution }}</a>
           {% endif %}
           {% if profile.location %}
               <br />
-              <i class="fa-solid fa-location-dot fa-sm"></i>
-              {{ profile.location }}
+              <i class="fa-solid fa-location-dot fa-sm"></i> {{ profile.location }}
           {% endif %}
           {% if profile.date %}
               <br />
-              <i class="fa-solid fa-calendar fa-sm"></i>
-              {{ profile.date }}
+              <i class="fa-solid fa-calendar fa-sm"></i> {{ profile.date }}
           {% endif %}
           </p>
 
