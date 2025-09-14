@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-It seems like the [ACA 2025](https://aca2025.github.io/) conference turned out to be vastly successful. Not only it was the largest conference in the [series](https://math.unm.edu/aca.html) in terms of numbers, but also, from the participants' feedback, also in terms of the quality of the talks and the overall organization. The people behind this success are
+It seems like the [ACA 2025](https://aca2025.github.io/) conference turned out to be vastly successful. Not only it was the largest conference in the [series](https://math.unm.edu/aca.html) in terms of numbers, but, from the participants' feedback, it was excellent in terms of the quality of the talks and the overall organization. The people behind this success are
 
 * [Eleni Tzanaki](https://sites.google.com/view/tzanakel/),
 * [Zafeirakis Zafeirakopoulos](https://zafeirakopoulos.github.io/),
