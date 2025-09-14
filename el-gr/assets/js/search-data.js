@@ -45,7 +45,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2.html";
-            },},{
+            },},{id: "news-my-office-hours-for-the-2025-26-fall-semester-are-friday-12-00-13-00-however-you-are-strongly-advised-to-communicate-with-me-in-advance",
+          title: 'My office hours for the 2025-26 fall semester are Friday 12:00-13:00. However, you...',
+          description: "",
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
