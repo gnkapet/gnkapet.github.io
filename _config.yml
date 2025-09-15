@@ -227,7 +227,12 @@ scholar:
   details_dir: bibliography
   details_link: Details
   
-  type_names: { talk: "Talks" }
+  type_names: {
+      talk: "talks"
+      article: "journal articles"
+      unpublished: "unpublished"
+      thesis: "theses"
+    }
 
   query: "@*"
   group_by: type, year
