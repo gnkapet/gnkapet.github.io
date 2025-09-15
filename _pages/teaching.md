@@ -15,7 +15,7 @@ profiles:
      location: Lamia, Greece
      institution: Department of Mathematics, University of Thessaly     
      url: http://www.math.uth.gr/
-     position: Assistant Professor
+     position: assistant professor
       
    - align: right
      image: europa.png
@@ -23,7 +23,7 @@ profiles:
      content: afm_uoc.md
      url: http://www.math.uoc.gr/
      date: 2018-2021
-     position: Adjunct Faculty Member
+     position: adjunct faculty member
      institution: Department of Mathematics and Applied Mathematics, University of Crete
      location: Heraklion, Greece
       
@@ -33,7 +33,7 @@ profiles:
      content: sc_astek.md
      url: https://astecrete.edu.gr/
      date: 2019-2020
-     position: Scientific Collaborator
+     position: scientific collaborator
      institution: Higher School of Tourism Education of Crete (ASTEK)
      location: Agios Nikolaos, Greece
       
@@ -43,7 +43,7 @@ profiles:
      content: ta_uoc.md
      url: http://www.math.uoc.gr/
      date: 2006-2015
-     position: Teaching Assistant
+     position: teaching assistant
      institution: Department of Mathematics and Applied Mathematics, University of Crete
      location: Heraklion, Greece
    
