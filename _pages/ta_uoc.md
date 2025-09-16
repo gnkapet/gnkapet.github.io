@@ -1,4 +1,4 @@
-During my studies, I served as a TA of the following courses (in Greek):
+During my studies, I served as a TA of the following courses of the department (in Greek):
 
 1.  _Geometry and Linear Algebra_. \[FS 2014-15\]
 2.  _Foundations of Mathematics_. \[FS 2013-14\]
