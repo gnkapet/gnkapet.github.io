@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: research
-description: In this page you will find my publications, preprints, my theses and a list of my talks. Also you will find the slides of (*most* of my) talks.
+description: In this page you will find my publications, my preprints, my theses and a list of my talks. Also you will find the slides of (most of my) talks.
 nav: true
 nav_order: 2
 ---
