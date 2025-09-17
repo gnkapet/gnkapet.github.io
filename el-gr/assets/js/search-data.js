@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-research",
           title: "research",
-          description: "In this page you will find my publications, preprints and my theses. Also, a list of my talks and slides of (most of my) talks. I am interested in all aspects of finite fields and their applications. If you are looking for a specific article and have no access to the corresponding journal, feel free to contact me!",
+          description: "In this page you will find my **publications**, **preprints**, my **theses** and a list of my **talks**. Also you will find the slides of (*most* of my) talks.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
