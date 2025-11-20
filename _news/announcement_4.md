@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be giving a talk at the [3rd Greek Number Theory Meeting](https://sites.google.com/view/3gntm/) in Patras at 16-17 December 2025.
+I will be giving a talk at the [3rd Greek Number Theory Meeting](https://sites.google.com/view/3gntm/) in Patras on 16-17 December 2025.
