@@ -1,7 +1,7 @@
 I have taught (or **currently teach**) the following courses of the department (in Greek, unless stated otherwise):
 
-1.  _[Algebra - 41202](https://eclass.uth.gr/courses/MATH_U_152/)_. \[SS 2025-26, SS 2024-25, SS 2022-23, SS 2021-22, SS 2020-21\]
-2.  _[Operations Research - 51303](https://eclass.uth.gr/courses/MATH_U_170/)_. \[**FS 2025-26**, FS 2024-25, FS 2023-24, FS 2021-22\]
+1.  _[Algebra - 41202](https://eclass.uth.gr/courses/MATH_U_152/)_. \[**SS 2025-26**, SS 2024-25, SS 2022-23, SS 2021-22, SS 2020-21\]
+2.  _[Operations Research - 51303](https://eclass.uth.gr/courses/MATH_U_170/)_. \[FS 2025-26, FS 2024-25, FS 2023-24, FS 2021-22\]
 3.  _[Introduction to Number Theory - 22201](https://eclass.uth.gr/courses/MATH_U_137/)_. \[SS 2023-24, SS 2022-23, SS 2021-22\]
 4.  _[Group Theory - 52202](https://eclass.uth.gr/courses/MATH_U_172/)_. \[FS 2023-24 (in English)\]
 5.  _[Linear Algebra II - 31202](https://eclass.uth.gr/courses/MATH_U_164/)_. \[FS 2023-24, FS 2021-22\]
