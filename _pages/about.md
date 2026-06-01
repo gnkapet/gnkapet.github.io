@@ -6,7 +6,7 @@ subtitle: Assistant Professor of Mathematics
 
 profile:
   align: rightfalse
-  image: prof_pic.jpg
+  image: me_hs.png
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Office 211, Building B</p>
